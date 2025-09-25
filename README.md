@@ -235,19 +235,3 @@ A API retorna erros estruturados com:
 
 Este projeto foi desenvolvido como parte do curso de Java Advanced da FIAP.
 
----
-
-## 🎯 Pontuação do Projeto
-
-Este projeto atende a **100% dos requisitos** especificados:
-
-- ✅ **Criação do Projeto (20%)**
-- ✅ **Cadastro de Conta (20%)**
-- ✅ **Validação (20%)**
-- ✅ **Buscas (10%)**
-- ✅ **Encerrar Conta (10%)**
-- ✅ **Depósito (10%)**
-- ✅ **Saque (10%)**
-- ✅ **PIX (20%)**
-
-**Total: 100%** 🎉
